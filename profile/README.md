@@ -1,6 +1,6 @@
-![Enchiladas de ML](./imgs/enchiladasdeml.png)
+![Enchiladas de ML](https://i.imgur.com/Ju2ym8c.png)
 
-# Enchiladas de ML
+# Enchiladas de Machine Learning
 ## Proyecto Open Source para ayudarte a aprender sobre Machine Learning
 
 Ayúdanos proponiendo nuevas ideas o mejoras en este [enlace](https://github.com/enchiladasdeml/about/issues/new/choose)
